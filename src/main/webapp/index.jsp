@@ -15,7 +15,6 @@
 			</div>
 			<input class="btn btn-block mt-2" type="submit" value="Buscar" />
 		</form>
-
 	</div>
 	<div class="col-md-6">
 		<h5 class="mt-2">Criar Empresa</h5>
