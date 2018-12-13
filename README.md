@@ -26,7 +26,7 @@ Contas disponíveis:
 ##### Home
 ![alt text](https://raw.githubusercontent.com/skatesham/gerenciador-tomcat-maven-MVC/master/src/main/webapp/WEB-INF/paginas/static/img/home.png)
 
-##### Curso de SERVLETS: FUNDAMENTOS DE JAVA NA WEB
+Curso de SERVLETS: FUNDAMENTOS DE JAVA NA WEB:
 O curso encontra-se [neste link](https://cursos.alura.com.br/course/servlet-3-e-fundamentos-web)
 
 ##### Desenvolvido por Sham Vinicius Fiorin
