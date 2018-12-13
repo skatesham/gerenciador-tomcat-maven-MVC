@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-image: url('/WEB-INF/paginas/base/static/img/bg-web.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
