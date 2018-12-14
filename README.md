@@ -16,7 +16,7 @@ Contas disponíveis:
 ```mvn tomcat7:run```
 
 ### Certificado
-![alt text](https://raw.githubusercontent.com/skatesham/gerenciador-tomcat-maven-MVC/master/src/main/webapp/WEB-INF/paginas/static/img/Certificado%20web.png)
+![alt text](https://raw.githubusercontent.com/skatesham/gerenciador-tomcat-maven-MVC/master/src/main/webapp/WEB-INF/paginas/static/img/certificado%20servlet%20web.png)
 
 ### Algumas Páginas
 
